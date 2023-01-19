@@ -374,7 +374,7 @@ light:
   pin: D8
   num_leds: 1
   flash_transition_length: 500ms
-  type: GRB
+  type: RGB
   id: activity_led
   name: "${friendly_name} LED"
   restore_mode: ALWAYS_OFF
