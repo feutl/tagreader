@@ -370,7 +370,7 @@ rtttl:
 # Configure LED
 light:
 - platform: neopixelbus
-  variant: WS2812
+  variant: WS2811
   pin: D8
   num_leds: 1
   flash_transition_length: 500ms
